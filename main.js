@@ -1,2 +1,2 @@
-let name = Adam;
-let surname = Garwacki;
+let name = 'Adam';
+let surname = 'Garwacki';
